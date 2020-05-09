@@ -221,19 +221,19 @@ We do what we say
      See Appendix B for a summary of rights afforded by the CCPA
 
 [^5]:
-     [https://fpf.org/2020/03/25/a-closer-look-at-location-data-privacy-and-pandemics/](https://fpf.org/2020/03/25/a-closer-look-at-location-data-privacy-and-pandemics/)
+     https://fpf.org/2020/03/25/a-closer-look-at-location-data-privacy-and-pandemics/
 
 [^6]:
-     [https://gdpr-info.eu/chapter-3/](https://gdpr-info.eu/chapter-3/)
+     https://gdpr-info.eu/chapter-3/
 
 [^7]:
-     [https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180SB1121](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180SB1121)
-
+     https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180SB1121
+     
 [^8]:
-     [https://safety.google/principles/?hl=en_US](https://safety.google/principles/?hl=en_US)
+     https://safety.google/principles/?hl=en_US
 
 [^9]:
-     [https://privacy.microsoft.com/en-US/](https://privacy.microsoft.com/en-US/)
-
+     https://privacy.microsoft.com/en-US/
+     
 [^10]:
-     [https://about.att.com/csr/home/privacy.html](https://about.att.com/csr/home/privacy.html)
+     https://about.att.com/csr/home/privacy.html]
